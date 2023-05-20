@@ -1,14 +1,7 @@
 <ol>
-    <li>
-        Horton, D., Logan, T., Murrell, J., Skipper, D., &amp; Speakman, E. (2022). Optimising urban amenity location for equitable access. arXiv.
-    </li>
-    <li>
-        Horton, D., Logan, T., Murrell, J., Skipper, D., &amp; Speakman, E. (2022). Optimizing the Kolm Pollak Equally Distributed Equivalent Using an Integer Linear Model. arXiv.
-    </li>
-    <li>
-        Logan, T.M., Anderson, M.J., Williams, T.G., &amp; Conrow, L. (2021). Measuring inequalities in urban systems: An approach for evaluating the distribution of amenities and burdens. Computers, Environment and Urban Systems, 86, 101590. <a href="https://doi.org/10.1016/j.compenvurbsys.2020.101590">https://doi.org/10.1016/j.compenvurbsys.2020.101590</a>
-    </li>
-    <li>
-        Sheriff, G., &amp; Maguire, K. (2020). Health Risk, Inequality Indexes, and Environmental Justice. Risk Anal. <a href="https://doi.org/10.1111/risa.13562">https://doi.org/10.1111/risa.13562</a>
-    </li>
+    <li><strong>Horton, D., Logan, T., Murrell, J., Skipper, D. & Speakman, E. (2022).</strong> Optimizing the Kolm Pollak Equally Distributed Equivalent Using an Integer Linear Model. arXiv.</li>
+    <li><strong>Horton, D., Logan, T., Skipper, D. & Speakman, E. (2022).</strong> Optimising urban amenity location for equitable access. arXiv.</li>
+    <li><strong>Logan, T.M., Anderson, M.J., Williams, T.G. & Conrow, L. (2021).</strong> Measuring inequalities in urban systems: An approach for evaluating the distribution of amenities and burdens. <em>Computers, Environment and Urban Systems, 86</em>, 101590. DOI: <a href="https://doi.org/10.1016/j.compenvurbsys.2020.101590">10.1016/j.compenvurbsys.2020.101590</a>. ISSN: 0198-9715.</li>
+    <li><strong>Sheriff, G. & Maguire, K. (2020).</strong> Health Risk, Inequality Indexes, and Environmental Justice. <em>Risk Anal.</em> DOI: <a href="https://doi.org/10.1111/risa.13562">10.1111/risa.13562</a>. ISSN: 0272-4332.</li>
 </ol>
+
