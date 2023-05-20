@@ -1,4 +1,4 @@
-```
+```latex
 @ARTICLE{Sheriff2020-ge,
   title   = "Health Risk, Inequality Indexes, and Environmental Justice",
   author  = "Sheriff, G and Maguire, K",
